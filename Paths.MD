@@ -1,6 +1,6 @@
-#After Effects Theory
+# After Effects Theory
 
-##Rotobeziér/auto-bezier
+## Rotobeziér/auto-bezier
 Rotobezier is nothing more than a bezier-curve where the handles are calculated automatically. The handles of any given point are influenced by its neighbouring points and a parameter we’ll call tension.
 
 Consider a shape made with four point A,B,C and D:
